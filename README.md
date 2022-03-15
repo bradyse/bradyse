@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bradyse
+- 👋 Hi, I’m Sara Brady
 - 👀 I’m interested in early career experiences in user experience research.
 - 🌱 I’m currently learning R programming language and user-centered design.
 - 💞️ I’m looking to collaborate on projects involving designing surveys, usability tests, interviews, or focus groups.
